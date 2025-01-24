@@ -5,7 +5,8 @@
 - Target Loss: 0.099
 
 ## Trianing Log is pasted below
-![alt text](image.png)
+
+![image](https://github.com/user-attachments/assets/2d1118fd-6a7a-4a44-9985-e0705551fe0f)
 
 
 # Transformer and Multi-Head Attention
@@ -39,4 +40,5 @@ Multi-Head Attention (MHA) is a crucial element of the decoder architecture. It 
 # Deployed this in streamlit app
 
 Attached streamlit UI below
-![alt text](image-1.png)"# TransformerFromScratch" 
+![image-1](https://github.com/user-attachments/assets/e884f4a1-1f84-4261-bc94-45b21b51e1a0)
+
